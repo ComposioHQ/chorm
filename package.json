@@ -1,6 +1,6 @@
 {
-  "name": "chorm",
-  "version": "0.0.0",
+  "name": "@composio/chorm",
+  "version": "0.0.1",
   "description": "A typesafe, Effect-native ClickHouse ORM with schema introspection and codegen.",
   "keywords": [
     "clickhouse",
